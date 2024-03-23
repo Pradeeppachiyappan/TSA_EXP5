@@ -62,21 +62,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### OUTPUT:
-
-FIRST FIVE ROWS:
-
-
-
-PLOTTING THE DATA:
-
-SEASONAL PLOT REPRESENTATION :
-
-
-
-TREND PLOT REPRESENTATION :
-
-OVERAL REPRESENTATION:
-
+![image](https://github.com/Pradeeppachiyappan/TSA_EXP5/assets/118707347/98e9bb82-5bbd-4ee9-bf44-2d343c4efc07)
 
 
 ### RESULT:
